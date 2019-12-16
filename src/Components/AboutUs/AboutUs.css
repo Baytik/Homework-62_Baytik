@@ -1,0 +1,17 @@
+.AboutUs h2 {
+    text-align: center;
+}
+.AboutUs p {
+margin: 10px 40px;
+text-align: center;
+}
+.natures {
+    display: flex;
+    flex-wrap: wrap;
+}
+.nature {
+    width: 450px;
+}
+.nature h3 {
+    text-align: center;
+}
