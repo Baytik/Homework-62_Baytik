@@ -1,0 +1,19 @@
+.Messages {
+    background: lightblue;
+}
+.Messages h5 {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 46px;
+    margin-top: 0;
+    padding-top: 76px;
+}
+.Messages input {
+    font-size: 20px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin-left: 30%;
+    margin-bottom: 100px;
+}
